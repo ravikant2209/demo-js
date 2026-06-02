@@ -1,4 +1,2 @@
 console.log("Hello World")
-console.log("Created by Ravikant")
-
-console.log("Version - V1")
+console.log("Created by Ravikant!! v2")
