@@ -1,2 +1,2 @@
-console.log("Hello World")
+consolelog("Hello World")
 console.log("Created by Ravikant!! v4")
